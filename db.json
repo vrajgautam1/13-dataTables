@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": "ffa4",
+      "email": "vraj@gmail.com",
+      "name": "vraj rajneesh gautam"
+    },
+    {
+      "id": "7600",
+      "email": "jainam@gmail.com",
+      "name": "jainam pokal"
+    },
+    {
+      "id": "a643",
+      "email": "bhavini@gmail.com",
+      "name": "bhavini"
+    },
+    {
+      "id": "4acd",
+      "email": "bhargav@gmail.com",
+      "name": "bhargav bhimani"
+    },
+    {
+      "id": "657f",
+      "email": "shubham@gmail.com",
+      "name": "Shubham Parekh"
+    }
+  ]
+}
